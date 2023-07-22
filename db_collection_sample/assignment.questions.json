@@ -1,0 +1,182 @@
+[{
+  "_id": {
+    "$oid": "64b9819b4e2c611bba93c1be"
+  },
+  "question": "Who was the first President of India?",
+  "options": [
+    "Dr. APJ Abdul Kalam",
+    "Mahatma Gandhi",
+    "Dr. Rajendra Prasad",
+    "Jawaharlal Nehru"
+  ],
+  "answer": "Dr. Rajendra Prasad",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b982e41078fb49cf4293e5"
+  },
+  "question": "Who was the first Prime Minister of India?",
+  "options": [
+    "Jawaharlal Nehru",
+    "Mahatma Gandhi",
+    "Sir Syed Ahmad Khan",
+    "Dr. Rajendra Prasad"
+  ],
+  "answer": "Jawaharlal Nehru",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b983401078fb49cf4293e8"
+  },
+  "question": "How many Cricket world cups does India have?",
+  "options": [
+    "One",
+    "Two",
+    "Three",
+    "Four"
+  ],
+  "answer": "Two",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64bbf40216f3633c80a84b23"
+  },
+  "question": "Name of the first university of India?",
+  "options": [
+    "Nalanda University",
+    "Taxshila University",
+    "Jawahar University",
+    "Dronacharya University"
+  ],
+  "answer": "Nalanda University",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64bbf41716f3633c80a84b26"
+  },
+  "question": "Which Indian state has the least literacy rate?",
+  "options": [
+    "Bihar",
+    "Rajasthan",
+    "Arunachal Pradesh",
+    "Orissa"
+  ],
+  "answer": "Bihar",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64bbf42416f3633c80a84b29"
+  },
+  "question": "Name of the first deputy Prime Minister of India?",
+  "options": [
+    "R.N. Shukla",
+    "V.R. Gill",
+    "Sardar Vallabh Bhai Patel",
+    "D.B. Mahawar"
+  ],
+  "answer": "Sardar Vallabh Bhai Patel",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64bbf42f16f3633c80a84b2c"
+  },
+  "question": "Name of first Space Tourist of India?",
+  "options": [
+    "DP Mahadevan",
+    "Santosh George",
+    "Niel Arm Strong",
+    "V.R. Gill"
+  ],
+  "answer": "Santosh George",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64bbf43a16f3633c80a84b2f"
+  },
+  "question": "Name of the First Indian Prime Minister who resigned from Office?",
+  "options": [
+    "Indira Gandhi",
+    "Moraji Desai",
+    "Jawahar Lal Nehru",
+    "Rajiv Gandhi"
+  ],
+  "answer": "Moraji Desai",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64bbf44b16f3633c80a84b33"
+  },
+  "question": "Which of the following is the capital of Arunachal Pradesh?",
+  "options": [
+    "Itanagar",
+    "Dispur",
+    "Imphal",
+    "Panaji"
+  ],
+  "answer": "Itanagar",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64bbf45816f3633c80a84b36"
+  },
+  "question": "What is the state flower of Haryana?",
+  "options": [
+    "Rhododendron",
+    "Lotus",
+    "Golden Shower",
+    "Not Declared"
+  ],
+  "answer": "Lotus",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64bbf46116f3633c80a84b39"
+  },
+  "question": "Which of the following states is not located in the North?",
+  "options": [
+    "Himachal Pradesh",
+    "Jammu and Kashmir",
+    "Haryana",
+    "Jharkhand"
+  ],
+  "answer": "Jharkhand",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64bbf59221faf1cb242ae327"
+  },
+  "question": "In which of the following state, the main language is Khasi?",
+  "options": [
+    "Mizoram",
+    "Nagaland",
+    "Meghalaya",
+    "Tripura"
+  ],
+  "answer": "Meghalaya",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64bbf59f21faf1cb242ae32a"
+  },
+  "question": "Which is the largest coffee-producing state of India?",
+  "options": [
+    "Kerala",
+    "Karnataka",
+    "Arunachal Pradesh",
+    "Tamil Nadu"
+  ],
+  "answer": "Karnataka",
+  "__v": 0
+}]

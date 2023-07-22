@@ -1,4 +1,5 @@
 const express = require("express");
+require('dotenv').config()
 const connectDB = require("./database")
 const cors = require("cors")
 const User = require('./models/Register')

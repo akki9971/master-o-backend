@@ -75,6 +75,36 @@
         "options": ["Kerala", "Karnataka", "Arunachal Pradesh", "Tamil Nadu"],
         "answer": "Karnataka"
         
-    }
+    },
+    {
+        "question": "Which country gifted the 'Statue of Liberty' to USA in 1886?",
+        "options": ["France", "Canada", "Brazil", "England"],
+        "answer": "France"
+
+    },
+    {
+        "question": "Dead Sea is located between which two countries?",
+        "options": ["Jordan and Sudan", "Jordan and Israel", "Turkey and UAE", "UAE and Egypt"],
+        "answer": "Jordan and Israel"
+
+    },
+    {
+        "question": "In which ocean 'Bermuda Triangle' region is located?",
+        "options": ["Indian", "Pacific", "Atlantic", "Arctic"],
+        "answer": "Atlantic"
+
+    },
+    {
+        "question": "Which country is known as the 'playground of Europe'?",
+        "options": ["Austria", "Holland", "Switzerland", "Italy"],
+        "answer": "Switzerland"
+
+    },
+    {
+        "question": "Which continent has the highest number of countries?",
+        "options": ["Asia", "Europe", "North America", "Africa"],
+        "answer": "Switzerland"
+
+    },
     
 ]
